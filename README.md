@@ -18,4 +18,7 @@ npm start
 6.This will compile the code and launch the application in your default web browser. If it doesn't open automatically, you can access it by visiting http://localhost:3000 in your browser.
 
 7.You should now see the React app running locally, and you can interact with the movie search and pagination functionality.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 207ce29df4566791c80e03d4b53fa56e5f95d59f
